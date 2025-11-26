@@ -1,1 +1,8 @@
-
+Hw Market adalah website yang menampilkan penjualan barang mainan berupa hotwheels dengan 6 fitur yang terdiri dari fitur manajemen produk, fitur shopping cart (keranjang belanja) & checkout, fitur manajemen pesanan, fitur wishlist (daftar keinginan), fitur review produk, fitur chat penjual dan pembeli. Dalam website ini saya hanya menggunakan HTML, CSS menggunakan Tailwind, javascript, dan Database menggunakan supabase disertai dengan node.js.
+Berikut ini beberapa fitur yang ada di dalam 6 fitur utama dalam website ini, antara lain;
+- Fitur manajemen produk, terdiri atas CRUD produk lengkap, Upload multiple foto produk, Detail produk, Filter & search produk, Sorting, dan View counter.
+- Fitur shopping cart (keranjang belanja) & checkout, terdiri atas Tambah dan hapus produk ke keranjang, Update quantity produk, Perhitungan otomatis subtotal & ongkir, dan Checkout dengan form lengkap.
+- Fitur manajemen pesanan, terdiri atas history pesanan lengkap, status tracking, detail pesanan dengan informasi lengkap, auto generate order number, update stok secara otomatis setelah checkout.
+- Fitur wishlist (daftar keinginan), terdiri atas tambah dan hapus produk ke wishlist atau daftar keinginan, lihat semua produk di wishlist, Quick access dari halaman produk, dan notifikasi wishlist.
+- Fitur review produk, terdiri atas review hanya untuk pembeli yang sudah selesai transaksi, rating bintang pada produk, komentar review, edit & delete review, Average rating di produk, dan tampilan review detail produk.
+- Fitur chat penjual dan pembeli, terdiri atas chat langsung antara pembeli dan penjual, chat terkait produk tertentu, unread message counter, conversation history, dan real time messaging.
